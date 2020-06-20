@@ -7,4 +7,4 @@ On my repository, I also have a multi-threaded chatroom written in Java. With ho
 
 Turns out, it's harder to write this sort of program in Python versus Java. My only guess for the reason of that is the way Python deals with sockets.
 
-<img src=https://i.imgur.com/4F7vhrV.png>
+<p align=center><img src=https://i.imgur.com/4F7vhrV.png></p>
